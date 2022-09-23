@@ -1,6 +1,9 @@
 <h1 align="center">HCAPTCHA BYPASS ⚡ - Releasing at 50 stars</h1>
 
-  Requirements:
+<p align='center'>
+    <b>Requirements:</b><br>
+    <br>
+</p>
 - brain
 - proxies
 
