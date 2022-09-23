@@ -1,9 +1,9 @@
 <h1 align="center">HCAPTCHA BYPASS ⚡ - Releasing at 50 stars</h1>
 
 <p align='center'>
-    <b>Do not waste ur money paying for ai solvers or capmonster just use this/b><br>
+    <b>Do not waste ur money paying captchas</b><br>
     <br>
-    <img src='[https://cdn.discordapp.com/attachments/954374798975324201/955160826564714586/Capture5555.PNG'>
+    <img src='[https://cdn.discordapp.com/attachments/954374798975324201/955160826564714586/Capture5555.PNG](https://cdn.discordapp.com/attachments/1014566821241819216/1022918849965850734/unknown.png)'>
 </p>
 
 
