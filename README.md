@@ -5,7 +5,7 @@
 - Proxies
 
 ## Info:
-- Uses hsl.js
+- Solves hsl.js
 - Can be used for: Sending DMs, joining servers and basically all actions except account generating
 - Average solving time, depends on how much threads you are using: 8 secs
 - If it is not working anymore you prob need to update models and objects.yaml file, if you are not brainded you're able to (https://github.com/QIN2DIM/hcaptcha-challenger)
@@ -13,4 +13,5 @@
 ## Credits:
 
 - Use models from hcaptcha-challenger (https://github.com/QIN2DIM/hcaptcha-challenger)
-- Help from my friend: https://github.com/gerard7707
+- Help from my friend chuen/gerard (https://github.com/avengy/hcaptcha-bypass-discord)
+- N_Data generator from avengy bypass (link: https://github.com/avengy/hcaptcha-bypass-discord)
