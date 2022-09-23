@@ -4,6 +4,7 @@
 - brain
 - proxies
 
+
    Info:
 - Uses hsl.js
 - Use models from hcaptcha-challenger (https://github.com/QIN2DIM/hcaptcha-challenger)
