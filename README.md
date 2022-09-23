@@ -1,4 +1,4 @@
-<h1 align="center">HCAPTCHA BYPASS ⚡ - Releasing at 50 stars</h1>
+<h1 align="center">HCAPTCHA BYPASS ⚡ Releasing at 20 stars</h1>
 
 ## Requirements:
 - Brain
