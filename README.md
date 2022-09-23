@@ -7,7 +7,6 @@
 ## Info:
 - Solving hsl.js
 - Can be used for: sending dms, joining servers and basically everything except account generating
-- Average solving time, depends on how much threads you are using: 9 secs
 - If it is not working anymore you prob need to update models and objects.yaml file, if you are not brainded you're able to (https://github.com/QIN2DIM/hcaptcha-challenger)
 - Fully requested
 
