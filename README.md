@@ -1,11 +1,5 @@
 <h1 align="center">HCAPTCHA BYPASS ⚡ - Releasing at 50 stars</h1>
 
-<p align='center'>
-    <b>Do not waste ur money paying captchas</b><br>
-    <br>
-    <img src='https://cdn.discordapp.com/attachments/954374798975324201/955160826564714586/Capture5555.PNG'>
-</p>
-
 
 Info:
 - Uses hsl.js
