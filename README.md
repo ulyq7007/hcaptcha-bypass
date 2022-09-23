@@ -3,7 +3,7 @@
 <p align='center'>
     <b>Do not waste ur money paying captchas</b><br>
     <br>
-    <img src='[https://cdn.discordapp.com/attachments/954374798975324201/955160826564714586/Capture5555.PNG](https://cdn.discordapp.com/attachments/1014566821241819216/1022918849965850734/unknown.png)'>
+    <img src='https://cdn.discordapp.com/attachments/954374798975324201/955160826564714586/Capture5555.PNG'>
 </p>
 
 
