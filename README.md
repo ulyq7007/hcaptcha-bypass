@@ -1,6 +1,6 @@
 <h1 align="center">HCAPTCHA BYPASS ⚡ - Releasing at 50 stars</h1>
 
-<p align='center'>
+<p align='right'>
     <b>Requirements:</b><br>
     <br>
 </p>
